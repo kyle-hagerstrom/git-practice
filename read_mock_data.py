@@ -2,6 +2,15 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import chardet
 
+#blah blah blah
+
+"""_summary_
+This code does the following
+1.wfae w
+2.af eafw efa
+3.fae wefa e
+"""
+
 # First detect the encoding
 with open('MOCK_DATA.csv', 'rb') as file:
     raw_data = file.read()
